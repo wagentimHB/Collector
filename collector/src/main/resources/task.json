@@ -1,0 +1,12 @@
+{
+  "taskList":
+  [
+    {
+      "taskName":"ImmoScout24",
+      "clazzName":"de.wagentim.collector.sites.immobilien.Immoscout24",
+      "crawler": 0,
+      "headless": false,
+      "trace": true
+    }
+  ]
+}
